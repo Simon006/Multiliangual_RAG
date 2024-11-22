@@ -1,4 +1,4 @@
----
+
 
 # Multilingual RAG
 
@@ -9,7 +9,6 @@ The rapid advancement of large language models (LLMs) has demonstrated remarkabl
 
 To address these challenges, this project explores **Retrieval-Augmented Generation (RAG)**, integrating multilingual databases and advanced retrieval-generation capabilities to enhance LLMs' performance in multilingual contexts.
 
----
 
 ## Summary  
 **Multilingual RAG** is a system built on the LangChain framework, designed to mitigate the limitations of non-multilingual pre-trained models in multilingual environments. The project features the following key components:  
